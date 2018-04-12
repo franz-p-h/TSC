@@ -4,5 +4,5 @@ channels:
     - basnijholt
 
 dependencies:
-  - python=3.4
+  - python=3.6
   - kwant
